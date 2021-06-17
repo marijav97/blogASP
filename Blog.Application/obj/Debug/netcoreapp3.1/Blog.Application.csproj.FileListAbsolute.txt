@@ -1,0 +1,12 @@
+C:\Users\Livingroom\source\repos\ASPblog\Blog.Application\bin\Debug\netcoreapp3.1\Blog.Application.deps.json
+C:\Users\Livingroom\source\repos\ASPblog\Blog.Application\bin\Debug\netcoreapp3.1\Blog.Application.dll
+C:\Users\Livingroom\source\repos\ASPblog\Blog.Application\bin\Debug\netcoreapp3.1\Blog.Application.pdb
+C:\Users\Livingroom\source\repos\ASPblog\Blog.Application\bin\Debug\netcoreapp3.1\Blog.Domain.dll
+C:\Users\Livingroom\source\repos\ASPblog\Blog.Application\bin\Debug\netcoreapp3.1\Blog.Domain.pdb
+C:\Users\Livingroom\source\repos\ASPblog\Blog.Application\obj\Debug\netcoreapp3.1\Blog.Application.csproj.AssemblyReference.cache
+C:\Users\Livingroom\source\repos\ASPblog\Blog.Application\obj\Debug\netcoreapp3.1\Blog.Application.AssemblyInfoInputs.cache
+C:\Users\Livingroom\source\repos\ASPblog\Blog.Application\obj\Debug\netcoreapp3.1\Blog.Application.AssemblyInfo.cs
+C:\Users\Livingroom\source\repos\ASPblog\Blog.Application\obj\Debug\netcoreapp3.1\Blog.Application.csproj.CoreCompileInputs.cache
+C:\Users\Livingroom\source\repos\ASPblog\Blog.Application\obj\Debug\netcoreapp3.1\Blog.Application.csproj.CopyComplete
+C:\Users\Livingroom\source\repos\ASPblog\Blog.Application\obj\Debug\netcoreapp3.1\Blog.Application.dll
+C:\Users\Livingroom\source\repos\ASPblog\Blog.Application\obj\Debug\netcoreapp3.1\Blog.Application.pdb
